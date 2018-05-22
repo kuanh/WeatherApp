@@ -41,9 +41,11 @@ extension String {
         formatter.dateFormat = "yyyy-MM-dd"
         let todayDate = formatter.date(from: self)
         formatter.dateFormat = "eeee"
+        formatter.locale = Locale(identifier: "vi-VN")
         let date = Date()
         let currentDate = formatter.string(from: date)
         let weekDay = formatter.string(from: todayDate!)
+        
         return currentDate == weekDay ? weekDay : weekDay
     }
     

@@ -193,7 +193,7 @@
                 <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" id="5L1-ZN-XHN">
                     <rect key="frame" x="0.0" y="0.0" width="377" height="128"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <color key="backgroundColor" red="0.82455207519999996" green="0.82455207519999996" blue="0.82455207519999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Vmz-Om-lQT">
                         <size key="itemSize" width="84" height="127"/>
                         <size key="headerReferenceSize" width="0.0" height="0.0"/>
@@ -229,7 +229,7 @@
                                     </label>
                                 </subviews>
                             </view>
-                            <color key="backgroundColor" red="0.82455207519999996" green="0.82455207519999996" blue="0.82455207519999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             <constraints>
                                 <constraint firstAttribute="bottom" secondItem="LAg-1O-VYo" secondAttribute="bottom" constant="10" id="1MH-LG-Q3q"/>
                                 <constraint firstItem="LAg-1O-VYo" firstAttribute="leading" secondItem="Ku8-Qd-VfE" secondAttribute="leading" id="8FD-co-5Ml"/>
