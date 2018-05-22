@@ -90,6 +90,7 @@
 				7EC54C4020AAE2AA00D77C22 /* Model */,
 				7EC54C2B20AAE29A00D77C22 /* AppDelegate.swift */,
 				7EC54C3520AAE29A00D77C22 /* Assets.xcassets */,
+				7EC54C2F20AAE29A00D77C22 /* Main.storyboard */,
 				7EC54C3720AAE29A00D77C22 /* LaunchScreen.storyboard */,
 				7EC54C3A20AAE29A00D77C22 /* Info.plist */,
 				7EC54C3220AAE29A00D77C22 /* DemoRequestApiWeather.xcdatamodeld */,
@@ -111,7 +112,6 @@
 		7EC54C4120AAE2B200D77C22 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				7EC54C2F20AAE29A00D77C22 /* Main.storyboard */,
 				7E3F61B220ACFD19005B8923 /* TableViewCell.swift */,
 				7E532BF120AEC62F00F0811B /* CollectionViewCell.swift */,
 			);
